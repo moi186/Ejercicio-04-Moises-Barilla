@@ -11,15 +11,13 @@ html {
 
 ul {
     background-color: #D6AFDC;
-    min-height: 60px;
-    margin: 0;
-    padding: 20px;
+    min-height: 100px;
 }
 
 li {
     padding: 20px;
     float: left;
-    margin: 0;
+    margin: 20px;
     list-style: none;
 }
 
